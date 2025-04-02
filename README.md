@@ -46,8 +46,7 @@ A simple Java-based application that converts text into Morse code and plays the
 ## 🤝 Contributing
 Contributions are welcome! If you find bugs or have suggestions, feel free to open an issue or submit a pull request.
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
 
 ## 📬 Contact
 - **Author:** Kunal Sharma  
